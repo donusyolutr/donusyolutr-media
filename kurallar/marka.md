@@ -26,9 +26,8 @@ Konu dağılımı: haftada en az 2 gönderi eksen 3 (yabancı plaka), en fazla 1
 
 ## Görsel standardı
 Ana format REELS: 1080x1920, 4-7 sahne, Türkçe seslendirme + altyazı. Üretim: `otomasyon/reels.py` + Descript. (Carousel: `otomasyon/render.py`, şu an kullanılmıyor.)
-Sayfa tipleri: cover (kicker, title, sub), list (tone: yes|no|info, kicker, title, items[], note?),
-cta (kicker, title, sub, button).
-Uzunluk: başlık en fazla ~40 karakter, madde başına en fazla ~60 karakter, sayfa başına en fazla 4 madde.
+Sahne alanları: ton (cover|yes|no|info|cta), ust (en fazla 25 karakter), metin (en fazla 60 karakter).
+Seslendirme: 20-35 saniye (45-80 kelime), ilk cümle kanca, son cümle "DM'den yazın".
 
 ## Açıklama (caption)
 2-4 kısa paragraf + 4-8 hashtag (#gurbetçi #sılayolu #yabancıplaka #almanyaplaka #gümrük ...).
