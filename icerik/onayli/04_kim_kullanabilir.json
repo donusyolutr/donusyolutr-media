@@ -50,5 +50,40 @@
       "sub": "Gümrüğe teslim, sevk ve Almanya tarafını organize ediyoruz.",
       "button": "DM'den yazın"
     }
-  ]
+  ],
+  "reels": {
+    "seslendirme": "Almanya plakalı aracınızın anahtarını kime verebilirsiniz? Dikkat... yakın olmak yetmiyor. Aracı sadece hak sahibi kullanabilir. Bir de ikameti yurt dışında olan eşi, anne-babası ve çocukları. Türkiye'de yaşayan eşiniz, çocuğunuz, hatta anne-babanız bile kullanamaz. Kardeş, kuzen, yeğen, arkadaş... hiçbiri. Ve unutmayın: Türkiye'deki yabancı plakalı araç satılamaz, devredilemez, kiralanamaz. Süreniz doluyorsa, yasal çıkışı birlikte planlayalım. DM'den yazın.",
+    "sahneler": [
+      {
+        "ton": "cover",
+        "ust": "YABANCI PLAKALI ARAÇ",
+        "metin": "Anahtarı kime verebilirsiniz?"
+      },
+      {
+        "ton": "yes",
+        "ust": "KULLANABİLİR",
+        "metin": "Hak sahibi + yurt dışında yaşayan eşi, anne-babası, çocukları"
+      },
+      {
+        "ton": "no",
+        "ust": "KULLANAMAZ",
+        "metin": "Türkiye'de yaşayan eş, çocuk, anne-baba"
+      },
+      {
+        "ton": "no",
+        "ust": "KULLANAMAZ",
+        "metin": "Kardeş, kuzen, yeğen, arkadaş"
+      },
+      {
+        "ton": "info",
+        "ust": "UNUTMAYIN",
+        "metin": "Satılamaz. Devredilemez. Kiralanamaz."
+      },
+      {
+        "ton": "cta",
+        "ust": "SÜRENİZ Mİ DOLUYOR?",
+        "metin": "Yasal çıkışı birlikte planlayalım."
+      }
+    ]
+  }
 }
