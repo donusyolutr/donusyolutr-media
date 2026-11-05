@@ -1,0 +1,54 @@
+{
+  "id": "04_kim_kullanabilir",
+  "caption": "Yabancı plakalı aracı direksiyonuna geçen herkes kullanamaz. Kuzen, kardeş, Türkiye'de yaşayan eş… En sık yapılan hatalardan biri bu.\n\nAracınızın süresi doluyorsa yasal çıkış sürecini sizin için organize ediyoruz. DM'den yazın, 4 soruyla başlıyoruz.\n\n#yabancıplaka #gurbetçi #almanyaplaka #geçiciithalat #gümrük #izmir",
+  "slides": [
+    {
+      "type": "cover",
+      "kicker": "YABANCI PLAKALI ARAÇ",
+      "title": "Bu aracı kim kullanabilir?",
+      "sub": "Kuzeninize anahtarı vermeden önce okuyun."
+    },
+    {
+      "type": "list",
+      "tone": "yes",
+      "kicker": "KULLANABİLİR",
+      "title": "Hak sahibi ve yakın ailesi",
+      "items": [
+        "Aracı getiren, yurt dışında yerleşik hak sahibi",
+        "İkameti yurt dışında olan eşi",
+        "İkameti yurt dışında olan anne-babası (üst soy)",
+        "İkameti yurt dışında olan çocukları (alt soy)"
+      ]
+    },
+    {
+      "type": "list",
+      "tone": "no",
+      "kicker": "KULLANAMAZ",
+      "title": "Yakın olması yetmez",
+      "items": [
+        "Türkiye'de yaşayan eş, çocuk veya anne-baba",
+        "Kardeş, kuzen, yeğen",
+        "Arkadaş, komşu"
+      ],
+      "note": "Belirleyici olan akrabalık derecesi ile birlikte ikametin yurt dışında olması."
+    },
+    {
+      "type": "list",
+      "tone": "info",
+      "kicker": "BİR DE ŞU VAR",
+      "title": "Kullanım izni ≠ satış izni",
+      "items": [
+        "Türkiye'deki yabancı plakalı araç satılamaz",
+        "Devredilemez, kiralanamaz",
+        "Vekâlet vermek bu yasağı aşmaz"
+      ]
+    },
+    {
+      "type": "cta",
+      "kicker": "SÜRENİZ Mİ DOLUYOR?",
+      "title": "Yasal çıkışı birlikte planlayalım.",
+      "sub": "Gümrüğe teslim, sevk ve Almanya tarafını organize ediyoruz.",
+      "button": "DM'den yazın"
+    }
+  ]
+}
