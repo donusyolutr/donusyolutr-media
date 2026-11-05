@@ -25,7 +25,7 @@ Konu dağılımı: haftada en az 2 gönderi eksen 3 (yabancı plaka), en fazla 1
 - "Açık sorular" listesindeki konularda kesin hüküm verilmez.
 
 ## Görsel standardı
-1080x1350, 4-6 sayfa: kapak + 2-4 içerik + son sayfa CTA. Render: `otomasyon/render.py`.
+Ana format REELS: 1080x1920, 4-7 sahne, Türkçe seslendirme + altyazı. Üretim: `otomasyon/reels.py` + Descript. (Carousel: `otomasyon/render.py`, şu an kullanılmıyor.)
 Sayfa tipleri: cover (kicker, title, sub), list (tone: yes|no|info, kicker, title, items[], note?),
 cta (kicker, title, sub, button).
 Uzunluk: başlık en fazla ~40 karakter, madde başına en fazla ~60 karakter, sayfa başına en fazla 4 madde.
