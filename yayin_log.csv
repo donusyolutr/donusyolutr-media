@@ -1,0 +1,5 @@
+numara,id,baslik,eksen,tarih,durum,metricool_id
+01,01_kac_gunu_kaldi,Aracınızın kaç günü kaldı?,3,2026-11,yayinlandi_elle,
+02,02_turkiyede_satamazsiniz,Türkiye'de satamazsınız,3,2026-11,yayinlandi_elle,
+03,03_elinizde_ne_olmali,Elinizde ne olmalı? (belge listesi),3,2026-11,yayinlandi_elle,
+04,04_kim_kullanabilir,Bu aracı kim kullanabilir?,3,2026-11-06,planlandi,417993836
