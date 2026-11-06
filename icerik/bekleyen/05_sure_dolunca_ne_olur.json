@@ -1,0 +1,27 @@
+{
+  "id": "05_sure_dolunca_ne_olur",
+  "eksen": 3,
+  "baslik": "Süre dolmak üzereyse ne yapılır?",
+  "caption": "Yabancı plakalı aracınızın süresi dolmak üzere mi? Süre aşılırsa gümrük vergilerinin 1/4'ü kadar idari para cezası uygulanır ve araca el konulabilir.\n\nAracı gümrüğe emaneten teslim etmek süreyi durdurur. İşlem, aracın bulunduğu ildeki gümrük idaresinde yapılır. İç gümrüğe teslimden sonra aracı yurt dışı etmek için 7 gün verilir; sevk memur refakatinde veya çekiciyle yapılır.\n\nKalan sürenizi e-Devlet üzerinden sorgulayabilirsiniz. Teslimi ve çıkışı birlikte planlıyor, süreci takip ediyoruz. DM'den yazın.\n\n#gurbetçi #yabancıplaka #almanyaplaka #gümrük #sılayolu #emanetteslim",
+  "reels": {
+    "seslendirme": "Aracınızın süresi dolmak üzere mi? Süre aşılırsa, gümrük vergilerinin dörtte biri kadar idari para cezası uygulanır. Araca el de konulabilir. Ama aracı gümrüğe emaneten teslim ederseniz, süre durur. Bu işlem, aracın bulunduğu ildeki gümrük idaresinde yapılır. İç gümrüğe teslimden sonra, aracı yurt dışı etmek için yedi gün verilir. Sevk, memur refakatinde ya da çekiciyle yapılır. Kalan sürenizi e-Devlet'ten sorgulayabilirsiniz. Teslimi ve çıkışı birlikte planlıyoruz. DM'den yazın.",
+    "sahneler": [
+      {"ton": "cover", "ust": "Süre dolmak üzere mi?", "metin": "Yabancı plakalı aracınız için sakin bir yol var"},
+      {"ton": "no", "ust": "Süre aşılırsa", "metin": "Vergilerin 1/4'ü kadar ceza; araca el konulabilir"},
+      {"ton": "yes", "ust": "Emaneten teslim", "metin": "Aracı gümrüğe emaneten teslim etmek süreyi durdurur"},
+      {"ton": "info", "ust": "Nerede?", "metin": "Aracın bulunduğu ildeki gümrük idaresinde"},
+      {"ton": "info", "ust": "İç gümrüğe teslim sonrası", "metin": "7 gün içinde çıkış: memur refakatinde ya da çekiciyle"},
+      {"ton": "cta", "ust": "Önce süreyi sorgulayın", "metin": "e-Devlet'ten bakın, çıkışı birlikte planlayalım"}
+    ]
+  },
+  "iddialar": [
+    {"metin": "Süre aşılırsa gümrük vergilerinin 1/4'ü (dörtte biri) kadar idari para cezası uygulanır.", "dayanak": "H-06"},
+    {"metin": "Süre aşımında araca el konulabilir.", "dayanak": "H-06"},
+    {"metin": "Aracın gümrüğe emaneten teslimi süreyi durdurur.", "dayanak": "H-07"},
+    {"metin": "İşlem aracın bulunduğu ildeki gümrük idaresinde yapılır.", "dayanak": "H-10"},
+    {"metin": "İç gümrüğe teslimden sonra aracı yurt dışı etmek için 7 gün verilir.", "dayanak": "H-08"},
+    {"metin": "Sevk memur refakatinde veya başka araç üzerinde (çekici) yapılır.", "dayanak": "H-08"},
+    {"metin": "Aracın kalan süresi e-Devlet üzerinden sorgulanabilir.", "dayanak": "H-11"}
+  ],
+  "kaynaklar": []
+}
